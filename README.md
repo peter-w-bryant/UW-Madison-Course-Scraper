@@ -15,7 +15,7 @@ and the script will scrape course info from `https://guide.wisc.edu/courses/` an
   - Course Description
   - Course Prerequisites
 
-An example of a course's information for UW-Madison's CS577 Introduction to Algorithms is as follows:
+An example of a course's information for UW-Madison's `CS577: Introduction to Algorithms` is as follows:
 ```{JSON}
 "comp_sci 53": {
         "code": "COMP SCI 577",
