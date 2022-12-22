@@ -4,7 +4,7 @@ A Python script for scraping course data from [UW-Madison's course guide](https:
 Simply install all dependencies and run,
 
 ```{Python}
-course_scrape/fetch_all.py
+python3 course_scrape/fetch_all.py
 ```
 
 and the script will scrape course info from `https://guide.wisc.edu/courses/` and will create a file `all-courses.json` within the parent directory that contains all course information for each course, including each course's:
