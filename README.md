@@ -1,7 +1,7 @@
 # UW-Madison-Course-Scraper
 A Python script for scraping course data from [UW-Madison's course guide](https://guide.wisc.edu/courses/).
 
-Simply run,
+Simply install all dependencies and run,
 
 ```{Python}
 course_scrape/fetch_all.py
